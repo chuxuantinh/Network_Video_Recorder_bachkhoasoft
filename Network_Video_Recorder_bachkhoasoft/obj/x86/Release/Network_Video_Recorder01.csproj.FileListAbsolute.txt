@@ -1,0 +1,11 @@
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\bin\Release\Network_Video_Recorder01.exe.config
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\bin\Release\Network_Video_Recorder01.exe
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\bin\Release\Network_Video_Recorder01.pdb
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\bin\Release\VoIPSDK.dll
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\Network_Video_Recorder01.Form1.resources
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\Network_Video_Recorder01.Properties.Resources.resources
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\Network_Video_Recorder01.exe
+C:\Work\Onvif\03_Network_Video_Recorder\Mini\01\Network_Video_Recorder01\Network_Video_Recorder01\obj\x86\Release\Network_Video_Recorder01.pdb
